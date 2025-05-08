@@ -1,6 +1,6 @@
 # SoftSell – Sell Your Unused Software Licenses
 
-SoftSell is a modern, responsive web app built with React and Tailwind CSS that allows users to turn unused software licenses into cash. It includes a chatbot to answer basic FAQs, animated sections, a light/dark mode toggle, and a smooth scrolling navigation bar.
+SoftSell is a modern, responsive web app built with React and Tailwind CSS that allows users to turn unused software licenses into cash. It includes a chatbot to answer basic FAQs, animated sections, a light/dark mode toggle, and a smooth-scrolling navigation bar.
 
 ---
 
@@ -61,7 +61,7 @@ SoftSell can be deployed easily using platforms like:
 ---
 
 ## 📄 License
-This project is open source and available under the [MIT License](LICENSE).
+This open-source project is available under the [MIT License](LICENSE).
 
 ---
 
