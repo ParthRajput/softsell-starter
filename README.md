@@ -30,7 +30,7 @@ SoftSell is a modern, responsive web app built with React and Tailwind CSS that 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/softsell.git
+git clone https://github.com/ParthRajput/softsell-starter.git
 ```
 
 2. **Navigate to the project folder**
